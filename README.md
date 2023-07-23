@@ -7,7 +7,7 @@ Modules
 4. Matplotlib.pyplot/Seaborn
 5. Sklearn/ Machine learning
     Regression:
-               linear regression
+               a.linear regression
                logistic regression
                Poly Regression
    Decision Algo
